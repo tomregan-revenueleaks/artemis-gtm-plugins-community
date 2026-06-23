@@ -1,75 +1,27 @@
-ARTEMIS GTM — GTM AUDIT (FREE) LICENSE
-Version 1.0 — Effective 2026-06-10
+Artemis GTM — Free Agent License (CC BY-NC 4.0)
 
-Copyright (c) 2026 Artemis GTM. All rights reserved.
+Copyright (c) 2026 Artemis GTM (Tom Regan). https://artemisgtm.ai
 
-The GTM Audit is Artemis GTM's free top-of-funnel diagnostic. There is no
-purchase, no fee, and nothing to refund. This file states the terms of use
-for the free Package; it is NOT a paid-product license. The paid Artemis
-build agents carry their own separate terms on their own pages.
+This Artemis GTM agent — its SKILL.md, playbook, templates, sub-agents, and
+bundled resources — is a free, top-of-funnel diagnostic. There is no purchase,
+no fee, and nothing to refund.
 
-GRANT
-  Artemis GTM grants you ("the User") a non-exclusive, non-transferable,
-  perpetual, royalty-free license to use the contents of this Package
-  ("the Package") for the User's own commercial use, subject to the terms
-  below. No payment is or was required, so no "original purchaser" status,
-  point-of-sale acknowledgment, or right-of-withdrawal waiver applies.
+It is licensed under the Creative Commons Attribution-NonCommercial 4.0
+International License (CC BY-NC 4.0).
 
-PERMITTED USES
-  1. Install and use the Package in the User's own Claude Code environment
-     and/or Claude.ai workspace.
-  2. Modify the contents of the Package for the User's internal use.
-  3. Use the Package to run GTM diagnostics for the User's own company or
-     for the User's directly-employed clients.
-  4. Re-download the always-latest version from your Artemis library any
-     time. Because the GTM Audit is free, there is no one-time-install
-     limit and no membership requirement to receive updated benchmark
-     tables — they are re-tuned each quarter and are free to re-pull.
+You are free to:
+  - Use it for any non-commercial purpose.
+  - Share it — copy and redistribute it in any medium or format.
+  - Adapt it — remix, transform, and build upon it.
 
-PROHIBITED USES
-  1. Resale, redistribution, or republication of the Package or any
-     substantial portion thereof, in any form, free or paid.
-  2. Use of the Package as the basis for a competing product, course,
-     newsletter, consulting offering, or content series sold to third
-     parties.
-  3. Sharing the Package with anyone outside the User's directly-employed
-     organization.
-  4. Removing or altering this license file or attribution to Artemis GTM
-     within the Package contents.
+Under these terms:
+  - Attribution — credit Artemis GTM (https://artemisgtm.ai) and link to this
+    license; indicate if changes were made.
+  - NonCommercial — you may not use the work, or any adaptation, primarily for
+    commercial advantage (for example, reselling it or bundling it into a paid
+    product or service). Artemis GTM's own paid build agents carry separate terms.
 
-WARRANTY
-  THE PACKAGE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND,
-  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+The work is provided "as is", without warranty of any kind.
 
-LIABILITY
-  IN NO EVENT SHALL ARTEMIS GTM BE LIABLE FOR ANY CLAIM, DAMAGES OR
-  OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-  ARISING FROM, OUT OF OR IN CONNECTION WITH THE PACKAGE OR THE USE OR
-  OTHER DEALINGS IN THE PACKAGE.
-
-NO PURCHASE, NO REFUNDS
-  The GTM Audit is free. There is no purchase, no charge, and therefore
-  nothing to refund, return, exchange, or credit. The paid Artemis build
-  agents that this audit recommends are sold separately and carry their
-  own terms on their own product pages.
-
-  This Package includes recommendations for tools from Artemis GTM partner
-  companies. When the User clicks through and signs up via the in-skill
-  referral links (artemisgtm.ai), Artemis GTM may earn
-
-  Tool recommendations are based on Artemis GTM's evaluation across
-  The Package is designed to adapt to the User's existing tooling rather
-  than force a switch.
-
-  For current pricing, features, and integration support of any
-  recommended tool, the Package defers to the partner's own website.
-  Artemis GTM and the Claude orchestrator running within this Package
-  are explicitly instructed not to invent or estimate product specifics.
-
-CONTACT
-  Implementation questions, license questions, partner-tool guidance:
-  tom@artemisgtm.ai
-
-  Implementation help is freely provided — email any time if you get
-  stuck during the audit.
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+SPDX-License-Identifier: CC-BY-NC-4.0
