@@ -1,0 +1,19 @@
+{
+  "name": "lead-response-roi",
+  "version": "1.0.0",
+  "description": "Use when the buyer wants to find out how much revenue their slow lead response is leaking, quantified in dollars per year. Triggers on phrases like \"Start my Lead Response ROI Calculator engagement\", \"lead response ROI\", \"how much is slow lead response costing me\", \"speed-to-lead calculator\", \"what does slow follow-up cost\", \"quantify my lead response leak\", \"lead response time calculator\".",
+  "author": {
+    "name": "Artemis GTM",
+    "email": "tom@artemisgtm.ai",
+    "url": "https://artemisgtm.ai"
+  },
+  "homepage": "https://artemisgtm.ai/agents/lead-response-roi",
+  "license": "SEE LICENSE.txt",
+  "keywords": [
+    "gtm",
+    "b2b",
+    "sales",
+    "revops",
+    "go-to-market"
+  ]
+}

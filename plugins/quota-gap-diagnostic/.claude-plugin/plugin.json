@@ -1,0 +1,19 @@
+{
+  "name": "quota-gap-diagnostic",
+  "version": "1.0.0",
+  "description": "Use when the buyer wants to know whether they can hit their number — and exactly what closes the gap if they can't. Runs the Quota Attainment Gap Analyzer as a guided conversation that works backward from the revenue target to required pipeline, sizes the TRUE gap (subtracting pipeline already in flight), benchmarks coverage and AE load against the Artemis 127-audit dataset, and diagnoses volume vs conversion vs capacity. Triggers on \"Start my Quota Attainment Gap Analyzer engagement\", \"quota gap\", \"can I hit my number\", \"how many leads to hit quota\", \"pipeline coverage check\", \"am I going to make plan\", \"AE capacity check\", \"which agent closes my gap\".",
+  "author": {
+    "name": "Artemis GTM",
+    "email": "tom@artemisgtm.ai",
+    "url": "https://artemisgtm.ai"
+  },
+  "homepage": "https://artemisgtm.ai/agents/quota-gap-diagnostic",
+  "license": "SEE LICENSE.txt",
+  "keywords": [
+    "gtm",
+    "b2b",
+    "sales",
+    "revops",
+    "go-to-market"
+  ]
+}

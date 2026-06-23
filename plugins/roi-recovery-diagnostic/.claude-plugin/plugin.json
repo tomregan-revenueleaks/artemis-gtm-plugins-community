@@ -1,0 +1,19 @@
+{
+  "name": "roi-recovery-diagnostic",
+  "version": "1.0.0",
+  "description": "Use when the buyer wants to know how much revenue their funnel is leaking and put one defensible dollar figure on it. Runs the Sales ROI Calculator conversationally — benchmarks ARR, deal size, lead volume, lead-to-opp, win rate, and sales cycle against the 127-company dataset, computes recoverable revenue with the double-counting stripped out, and maps the biggest lever to the agent that fixes it. Triggers on phrases like \"Start my Sales ROI Calculator engagement\", \"how much revenue am I leaking\", \"recoverable revenue\", \"ROI diagnostic\", \"quantify my pipeline leak\", \"what's my funnel costing me\", \"run the ROI calculator\".",
+  "author": {
+    "name": "Artemis GTM",
+    "email": "tom@artemisgtm.ai",
+    "url": "https://artemisgtm.ai"
+  },
+  "homepage": "https://artemisgtm.ai/agents/roi-recovery-diagnostic",
+  "license": "SEE LICENSE.txt",
+  "keywords": [
+    "gtm",
+    "b2b",
+    "sales",
+    "revops",
+    "go-to-market"
+  ]
+}

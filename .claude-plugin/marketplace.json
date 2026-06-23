@@ -1,0 +1,62 @@
+{
+  "name": "artemis-gtm",
+  "owner": {
+    "name": "Artemis GTM",
+    "email": "tom@artemisgtm.ai",
+    "url": "https://artemisgtm.ai"
+  },
+  "description": "Artemis GTM consulting agents for Claude Code — free B2B revenue-leak diagnostics plus previews of the paid GTM playbook agents.",
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "deanonymization-roi-agent",
+      "source": "./plugins/deanonymization-roi-agent",
+      "description": "Deanonymization ROI — free Artemis GTM diagnostic agent.",
+      "category": "diagnostic"
+    },
+    {
+      "name": "gtm-audit",
+      "source": "./plugins/gtm-audit",
+      "description": "GTM Audit — free Artemis GTM diagnostic agent.",
+      "category": "diagnostic"
+    },
+    {
+      "name": "lead-response-roi",
+      "source": "./plugins/lead-response-roi",
+      "description": "Lead Response ROI — free Artemis GTM diagnostic agent.",
+      "category": "diagnostic"
+    },
+    {
+      "name": "pipeline-velocity-analyzer",
+      "source": "./plugins/pipeline-velocity-analyzer",
+      "description": "Pipeline Velocity Analyzer — free Artemis GTM diagnostic agent.",
+      "category": "diagnostic"
+    },
+    {
+      "name": "quota-gap-diagnostic",
+      "source": "./plugins/quota-gap-diagnostic",
+      "description": "Quota Gap Diagnostic — free Artemis GTM diagnostic agent.",
+      "category": "diagnostic"
+    },
+    {
+      "name": "roi-recovery-diagnostic",
+      "source": "./plugins/roi-recovery-diagnostic",
+      "description": "ROI Recovery Diagnostic — free Artemis GTM diagnostic agent.",
+      "category": "diagnostic"
+    },
+    {
+      "name": "stack-grader-agent",
+      "source": "./plugins/stack-grader-agent",
+      "description": "Stack Grader — free Artemis GTM diagnostic agent.",
+      "category": "diagnostic"
+    },
+    {
+      "name": "artemis-gtm-free",
+      "source": "./plugins/artemis-gtm-free",
+      "description": "All free Artemis GTM diagnostic agents in one install (7 agents).",
+      "category": "suite"
+    }
+  ]
+}

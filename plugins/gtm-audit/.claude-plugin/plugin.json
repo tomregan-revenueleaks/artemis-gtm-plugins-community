@@ -1,0 +1,19 @@
+{
+  "name": "gtm-audit",
+  "version": "3.0.0",
+  "description": "Use when the buyer wants to find where their GTM is leaking revenue, quantify it, and get a prioritized fix roadmap. Triggers on phrases like \"GTM audit\", \"find my revenue leaks\", \"GTM diagnostic\", \"where am I losing pipeline\", \"audit my go-to-market\", \"GTM health check\", \"which agent do I need\".",
+  "author": {
+    "name": "Artemis GTM",
+    "email": "tom@artemisgtm.ai",
+    "url": "https://artemisgtm.ai"
+  },
+  "homepage": "https://artemisgtm.ai/agents/gtm-audit",
+  "license": "SEE LICENSE.txt",
+  "keywords": [
+    "gtm",
+    "b2b",
+    "sales",
+    "revops",
+    "go-to-market"
+  ]
+}

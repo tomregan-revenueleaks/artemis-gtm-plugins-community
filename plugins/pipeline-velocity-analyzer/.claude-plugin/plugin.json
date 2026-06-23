@@ -1,0 +1,19 @@
+{
+  "name": "pipeline-velocity-analyzer",
+  "version": "1.0.0",
+  "description": "Use when the buyer wants to know how fast their pipeline moves in dollars per day, benchmark it, and find which of the four levers — leads, deal size, win rate, or cycle length — is leaking the most revenue. Triggers on phrases like \"Start my Pipeline Velocity Calculator engagement\", \"pipeline velocity\", \"which lever should I pull\", \"how fast does my pipeline move\", \"calculate pipeline velocity\", \"my pipeline is slow\", \"where is my revenue velocity leaking\".",
+  "author": {
+    "name": "Artemis GTM",
+    "email": "tom@artemisgtm.ai",
+    "url": "https://artemisgtm.ai"
+  },
+  "homepage": "https://artemisgtm.ai/agents/pipeline-velocity-analyzer",
+  "license": "SEE LICENSE.txt",
+  "keywords": [
+    "gtm",
+    "b2b",
+    "sales",
+    "revops",
+    "go-to-market"
+  ]
+}
