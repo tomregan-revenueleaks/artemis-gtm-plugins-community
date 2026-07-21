@@ -1,9 +1,9 @@
-Artemis GTM — Free Agent License (CC BY-NC 4.0)
+Artemis GTM, Free Agent License (CC BY-NC 4.0)
 
 Copyright (c) 2026 Artemis GTM (Tom Regan). https://artemisgtm.ai
 
-This Artemis GTM agent — its SKILL.md, playbook, templates, sub-agents, and
-bundled resources — is a free, top-of-funnel diagnostic. There is no purchase,
+This Artemis GTM agent (its SKILL.md, playbook, templates, sub-agents, and
+bundled resources) is a free, top-of-funnel diagnostic. There is no purchase,
 no fee, and nothing to refund.
 
 It is licensed under the Creative Commons Attribution-NonCommercial 4.0
@@ -11,13 +11,13 @@ International License (CC BY-NC 4.0).
 
 You are free to:
   - Use it for any non-commercial purpose.
-  - Share it — copy and redistribute it in any medium or format.
-  - Adapt it — remix, transform, and build upon it.
+  - Share it: copy and redistribute it in any medium or format.
+  - Adapt it: remix, transform, and build upon it.
 
 Under these terms:
-  - Attribution — credit Artemis GTM (https://artemisgtm.ai) and link to this
+  - Attribution: credit Artemis GTM (https://artemisgtm.ai) and link to this
     license; indicate if changes were made.
-  - NonCommercial — you may not use the work, or any adaptation, primarily for
+  - NonCommercial: you may not use the work, or any adaptation, primarily for
     commercial advantage (for example, reselling it or bundling it into a paid
     product or service). Artemis GTM's own paid build agents carry separate terms.
 

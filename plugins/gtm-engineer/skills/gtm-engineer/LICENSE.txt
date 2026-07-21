@@ -1,0 +1,86 @@
+ARTEMIS GTM SKILL PACKAGE LICENSE
+Version 1.0. Effective 2026-05-25
+
+Copyright (c) 2026 Artemis GTM. All rights reserved.
+
+This license grants the original purchaser ("Licensee") a non-exclusive,
+non-transferable, perpetual license to use the contents of this Skill
+Package ("the Package") for the Licensee's own commercial use, subject to
+the terms below.
+
+PERMITTED USES
+  1. Install and use the Package in the Licensee's own Claude Code
+     environment, Claude.ai workspace, and/or OpenAI Codex environment
+     (CLI, IDE, or cloud).
+  2. Modify the contents of the Package for the Licensee's internal use.
+  3. Use the Package to implement GTM systems for the Licensee's own
+     company or for the Licensee's directly-employed clients.
+  4. The one-time license grants a SINGLE install of this Package. It does
+     not include any update refresh. Ongoing and updated versions of the
+     Package require an active Artemis membership (Aegis), which keeps the
+     Package always-latest as tools, models, and plays change.
+
+PROHIBITED USES
+  1. Resale, redistribution, or republication of the Package or any
+     substantial portion thereof, in any form, free or paid.
+  2. Use of the Package as the basis for a competing product, course,
+     newsletter, consulting offering, or content series sold to third
+     parties.
+  3. Sharing the Package with anyone outside the Licensee's directly-
+     employed organization.
+  4. Removing or altering this license file or attribution to Artemis GTM
+     within the Package contents.
+
+WARRANTY
+  THE PACKAGE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND,
+  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+LIABILITY
+  IN NO EVENT SHALL ARTEMIS GTM BE LIABLE FOR ANY CLAIM, DAMAGES OR
+  OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+  ARISING FROM, OUT OF OR IN CONNECTION WITH THE PACKAGE OR THE USE OR
+  OTHER DEALINGS IN THE PACKAGE.
+
+NO REFUNDS. ALL SALES FINAL
+  All sales of Skill Packages are FINAL. Artemis GTM does NOT issue
+  refunds, returns, exchanges, or credits under any circumstances,
+  including but not limited to: change of mind, dissatisfaction,
+  inability to use the Package, lack of technical comfort, disagreement
+  with recommendations contained within, or failure to apply the
+  Package to the Licensee's situation.
+
+  By completing the purchase, the Licensee acknowledges and accepts:
+    (a) The DIGITAL NATURE of the Package, instant download, reproducible
+        contents, means value is transferred at the moment of purchase.
+    (b) The Licensee waives any statutory right of withdrawal or
+        cooling-off period to the maximum extent permitted by applicable
+        law.
+    (c) This no-refund policy is stated prominently on the product
+        detail page, at point of checkout, and within this license. The
+        Licensee's purchase constitutes affirmative agreement.
+
+  Chargebacks initiated against this no-refund policy will be contested
+  with the payment processor using the disclosures listed above as
+  evidence of buyer acknowledgment.
+
+  This Skill Package includes recommendations for tools from Artemis GTM
+  partner companies. When the Licensee clicks through and signs up via
+  the in-skill referral links (artemisgtm.ai), Artemis GTM
+  to the Licensee.
+
+  Tool recommendations are based on Artemis GTM's evaluation across
+  The Package is designed to adapt to the Licensee's existing tooling
+  rather than force a switch.
+
+  For current pricing, features, and integration support of any
+  recommended tool, the Package defers to the partner's own website.
+  Artemis GTM and the Claude orchestrator running within this Package
+  are explicitly instructed not to invent or estimate product specifics.
+
+CONTACT
+  Implementation questions, license disputes, partner-tool guidance:
+  tom@artemisgtm.ai
+
+  Refund requests are not entertained, see "NO REFUNDS. ALL SALES FINAL"
+  above. Implementation help is freely provided to buyers who reach out.

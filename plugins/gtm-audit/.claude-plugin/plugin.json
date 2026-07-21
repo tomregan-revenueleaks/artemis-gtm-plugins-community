@@ -1,7 +1,7 @@
 {
   "name": "gtm-audit",
   "version": "3.0.0",
-  "description": "Use when the buyer wants to find where their GTM is leaking revenue, quantify it, and get a prioritized fix roadmap. Triggers on phrases like \"GTM audit\", \"find my revenue leaks\", \"GTM diagnostic\", \"where am I losing pipeline\", \"audit my go-to-market\", \"GTM health check\", \"which agent do I need\".",
+  "description": "Use when the buyer wants to find where their GTM is leaking revenue, quantify it, and get a prioritized fix roadmap, or to run one focused calculator (lead-response ROI, recoverable-revenue ROI, visitor-deanonymization ROI, pipeline velocity, quota-coverage gap, or tech-stack grade). Triggers on \"GTM audit\", \"find my revenue leaks\", \"GTM diagnostic\", \"where am I losing pipeline\", \"audit my go-to-market\", \"GTM health check\", \"which agent do I need\", \"calculate my lead response ROI\", \"recoverable revenue\", \"visitor deanonymization ROI\", \"pipeline velocity\", \"quota gap\", \"grade my stack\".",
   "author": {
     "name": "Artemis GTM",
     "email": "tom@artemisgtm.ai",

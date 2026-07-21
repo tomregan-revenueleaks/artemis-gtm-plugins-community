@@ -1,0 +1,19 @@
+{
+  "name": "gtm-engineer",
+  "version": "1.0.0",
+  "description": "The AI GTM Engineer. Use when the buyer wants to understand how B2B revenue systems work, find where their go-to-market is leaking money and quantify it, build any of twelve GTM systems (ICP, lead scoring, qualification, speed-to-lead, visitor deanonymization, outbound, nurture, content, conversion content, tech-stack audit, AI RevOps, Amplemarket implementation), operate those systems on routines, or scale what they already run. One advisor named Artemis across five modes. Triggers on \"Start my GTM Engineer engagement\", \"teach me GTM\", \"GTM audit\", \"find my revenue leaks\", \"where am I losing pipeline\", \"which agent do I need\", \"ICP\", \"lead scoring\", \"qualification\", \"speed to lead\", \"anonymous visitors\", \"visitor identification\", \"outbound\", \"cold email\", \"deliverability\", \"nurture\", \"content strategy\", \"AI citations\", \"pricing page\", \"conversion content\", \"audit my stack\", \"AI RevOps\", \"set up Amplemarket\", \"what should I build next\", \"run my watchtower\", \"portfolio review\", plus every legacy per-agent kickoff phrase, which all resolve here forever.",
+  "author": {
+    "name": "Artemis GTM",
+    "email": "tom@artemisgtm.ai",
+    "url": "https://artemisgtm.ai"
+  },
+  "homepage": "https://artemisgtm.ai/agents/gtm-engineer",
+  "license": "CC-BY-NC-4.0",
+  "keywords": [
+    "gtm",
+    "b2b",
+    "sales",
+    "revops",
+    "go-to-market"
+  ]
+}
